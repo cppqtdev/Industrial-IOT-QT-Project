@@ -1,12 +1,8 @@
-# QDashBoard
-Sample dashboard developed with QML. Login, plots and several screens.
+# Sales DashBoard
+Sample Sales dashboard developed with QML. 
 
-## Login screen
+## Design  screen
 ![alt text](https://github.com/IndeemaSoftware/QDashBoard/blob/Assets/login.png)
 
-## Dashboard screen
+## Dashboard screen Design With QML
 ![alt text](https://github.com/IndeemaSoftware/QDashBoard/blob/Assets/dashvoard.png)
-
-## Map screen
-![alt text](https://github.com/IndeemaSoftware/QDashBoard/blob/Assets/maps.png)
-
